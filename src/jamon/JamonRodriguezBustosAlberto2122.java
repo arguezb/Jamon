@@ -12,6 +12,7 @@ package jamon;
 public class JamonRodriguezBustosAlberto2122 {
 
     /**
+     * 
      * Método getter que devuelve la categoría del jamón
      * 
      * @return devuelve la categoria del jamón
